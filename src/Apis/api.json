@@ -1,0 +1,266 @@
+{
+  "exercises": [
+    {
+      "name": "Squat",
+      "image_url":"https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+      "target_body_part": "Legs",
+      "details": {
+        "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+        "equipment_needed": "Barbell (optional)",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Bench Press",
+      "image_url":"https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/barbell-bench-press.gif",
+      "target_body_part": "Chest",
+      "details": {
+        "description": "An upper body exercise targeting the chest, shoulders, and triceps.",
+        "equipment_needed": "Barbell, Bench",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Pull Up",
+      "image_url":"https://www.marathonfitness.de/wp-content/uploads/2022/12/06521301-Pull-up_Back_720.gif",
+      "target_body_part": "Back",
+      "details": {
+        "description": "An upper body compound exercise targeting the back, shoulders, and biceps.",
+        "equipment_needed": "Pull-up Bar",
+        "difficulty_level": "Intermediate to Advanced",
+        "recommended_reps": "5-10"
+      }
+    },
+    {
+      "name": "Plank",
+      "image_url":"https://menspower.nl/wp-content/uploads/2018/02/plank.gif",
+      "target_body_part": "Core",
+      "details": {
+        "description": "A core strengthening exercise that also targets your glutes and hamstrings, and supports proper posture and improves balance.",
+        "equipment_needed": "None",
+        "difficulty_level": "Beginner",
+        "recommended_reps": "Hold for 30-60 seconds"
+      }
+    },
+    {
+      "name": "Squat",
+      "image_url":"https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+      "target_body_part": "Legs",
+      "details": {
+        "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+        "equipment_needed": "Barbell (optional)",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Bench Press",
+      "image_url":"https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/barbell-bench-press.gif",
+      "target_body_part": "Chest",
+      "details": {
+        "description": "An upper body exercise targeting the chest, shoulders, and triceps.",
+        "equipment_needed": "Barbell, Bench",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Pull Up",
+      "image_url":"https://www.marathonfitness.de/wp-content/uploads/2022/12/06521301-Pull-up_Back_720.gif",
+      "target_body_part": "Back",
+      "details": {
+        "description": "An upper body compound exercise targeting the back, shoulders, and biceps.",
+        "equipment_needed": "Pull-up Bar",
+        "difficulty_level": "Intermediate to Advanced",
+        "recommended_reps": "5-10"
+      }
+    },
+    {
+      "name": "Plank",
+      "image_url":"https://menspower.nl/wp-content/uploads/2018/02/plank.gif",
+      "target_body_part": "Core",
+      "details": {
+        "description": "A core strengthening exercise that also targets your glutes and hamstrings, and supports proper posture and improves balance.",
+        "equipment_needed": "None",
+        "difficulty_level": "Beginner",
+        "recommended_reps": "Hold for 30-60 seconds"
+      }
+    },{
+      "name": "Squat",
+      "image_url":"https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+      "target_body_part": "Legs",
+      "details": {
+        "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+        "equipment_needed": "Barbell (optional)",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Bench Press",
+      "image_url":"https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/barbell-bench-press.gif",
+      "target_body_part": "Chest",
+      "details": {
+        "description": "An upper body exercise targeting the chest, shoulders, and triceps.",
+        "equipment_needed": "Barbell, Bench",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Pull Up",
+      "image_url":"https://www.marathonfitness.de/wp-content/uploads/2022/12/06521301-Pull-up_Back_720.gif",
+      "target_body_part": "Back",
+      "details": {
+        "description": "An upper body compound exercise targeting the back, shoulders, and biceps.",
+        "equipment_needed": "Pull-up Bar",
+        "difficulty_level": "Intermediate to Advanced",
+        "recommended_reps": "5-10"
+      }
+    },
+    {
+      "name": "Plank",
+      "image_url":"https://menspower.nl/wp-content/uploads/2018/02/plank.gif",
+      "target_body_part": "Core",
+      "details": {
+        "description": "A core strengthening exercise that also targets your glutes and hamstrings, and supports proper posture and improves balance.",
+        "equipment_needed": "None",
+        "difficulty_level": "Beginner",
+        "recommended_reps": "Hold for 30-60 seconds"
+      }
+    },{
+      "name": "Squat",
+      "image_url":"https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+      "target_body_part": "Legs",
+      "details": {
+        "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+        "equipment_needed": "Barbell (optional)",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Bench Press",
+      "image_url":"https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/barbell-bench-press.gif",
+      "target_body_part": "Chest",
+      "details": {
+        "description": "An upper body exercise targeting the chest, shoulders, and triceps.",
+        "equipment_needed": "Barbell, Bench",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Pull Up",
+      "image_url":"https://www.marathonfitness.de/wp-content/uploads/2022/12/06521301-Pull-up_Back_720.gif",
+      "target_body_part": "Back",
+      "details": {
+        "description": "An upper body compound exercise targeting the back, shoulders, and biceps.",
+        "equipment_needed": "Pull-up Bar",
+        "difficulty_level": "Intermediate to Advanced",
+        "recommended_reps": "5-10"
+      }
+    },
+    {
+      "name": "Plank",
+      "image_url":"https://menspower.nl/wp-content/uploads/2018/02/plank.gif",
+      "target_body_part": "Core",
+      "details": {
+        "description": "A core strengthening exercise that also targets your glutes and hamstrings, and supports proper posture and improves balance.",
+        "equipment_needed": "None",
+        "difficulty_level": "Beginner",
+        "recommended_reps": "Hold for 30-60 seconds"
+      }
+    },{
+      "name": "Squat",
+      "image_url":"https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+      "target_body_part": "Legs",
+      "details": {
+        "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+        "equipment_needed": "Barbell (optional)",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Bench Press",
+      "image_url":"https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/barbell-bench-press.gif",
+      "target_body_part": "Chest",
+      "details": {
+        "description": "An upper body exercise targeting the chest, shoulders, and triceps.",
+        "equipment_needed": "Barbell, Bench",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Pull Up",
+      "image_url":"https://www.marathonfitness.de/wp-content/uploads/2022/12/06521301-Pull-up_Back_720.gif",
+      "target_body_part": "Back",
+      "details": {
+        "description": "An upper body compound exercise targeting the back, shoulders, and biceps.",
+        "equipment_needed": "Pull-up Bar",
+        "difficulty_level": "Intermediate to Advanced",
+        "recommended_reps": "5-10"
+      }
+    },
+    {
+      "name": "Plank",
+      "image_url":"https://menspower.nl/wp-content/uploads/2018/02/plank.gif",
+      "target_body_part": "Core",
+      "details": {
+        "description": "A core strengthening exercise that also targets your glutes and hamstrings, and supports proper posture and improves balance.",
+        "equipment_needed": "None",
+        "difficulty_level": "Beginner",
+        "recommended_reps": "Hold for 30-60 seconds"
+      }
+    },{
+      "name": "Squat",
+      "image_url":"https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+      "target_body_part": "Legs",
+      "details": {
+        "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+        "equipment_needed": "Barbell (optional)",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Bench Press",
+      "image_url":"https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/barbell-bench-press.gif",
+      "target_body_part": "Chest",
+      "details": {
+        "description": "An upper body exercise targeting the chest, shoulders, and triceps.",
+        "equipment_needed": "Barbell, Bench",
+        "difficulty_level": "Beginner to Advanced",
+        "recommended_reps": "8-12"
+      }
+    },
+    {
+      "name": "Pull Up",
+      "image_url":"https://www.marathonfitness.de/wp-content/uploads/2022/12/06521301-Pull-up_Back_720.gif",
+      "target_body_part": "Back",
+      "details": {
+        "description": "An upper body compound exercise targeting the back, shoulders, and biceps.",
+        "equipment_needed": "Pull-up Bar",
+        "difficulty_level": "Intermediate to Advanced",
+        "recommended_reps": "5-10"
+      }
+    },
+    {
+      "name": "Plank",
+      "image_url":"https://menspower.nl/wp-content/uploads/2018/02/plank.gif",
+      "target_body_part": "Core",
+      "details": {
+        "description": "A core strengthening exercise that also targets your glutes and hamstrings, and supports proper posture and improves balance.",
+        "equipment_needed": "None",
+        "difficulty_level": "Beginner",
+        "recommended_reps": "Hold for 30-60 seconds"
+      }
+    }
+
+    
+  ]
+}
