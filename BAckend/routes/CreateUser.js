@@ -3,6 +3,7 @@ const router = express.Router();
 const user = require('../models/User')
 const { body, validationResult } = require('express-validator');
 
+// creating user data
 
 router.post('/createuser', [
     body('username').isLength({ min: 3 }),
