@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import './intrn.css'; // Import the CSS file for styling
-import { Link } from 'react-router-dom';
+import { Link,useNavigate } from 'react-router-dom';
 
 const Signup = () => {
+  const navigate = useNavigate();
   const [credential, setcredential] = useState({ username: "", email: "", password: "" });
 
   const handleInputChange = e => {
@@ -15,21 +16,23 @@ const Signup = () => {
     // You can add your signup logic 
 
     const response = await fetch('http://localhost:5000/api/createuser', {
-      mode:'cors',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify({ username: credential.username, email: credential.email, password: credential.password })
+      body: JSON.stringify(credential)
 
     })
-    console.log(response);
+    // console.log(response);
 
     const jsonfile = await response.json();
     console.log(jsonfile);
 
     if (!jsonfile.success) {
-      alert('enter properly')
+      alert(jsonfile.msg)
+    }
+    else{
+      navigate('/')
     }
 
   }

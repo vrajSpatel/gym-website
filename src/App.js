@@ -13,6 +13,7 @@ import Exercise from './Component/Exercise.jsx';
 import Tracker from './Component/Tracker.jsx';
 import ContactUs from './Component/ContactUs.jsx';
 import AddExercise from './Component/AddExercise.jsx';
+import Profile from './Component/Profile.jsx';
 
 function App() {
   // const useLocation = useLocation()
@@ -32,6 +33,7 @@ function App() {
           <Route path='/traker' element={<Tracker></Tracker>}></Route>
           <Route path='/contactus' element={<ContactUs></ContactUs>}></Route>
           <Route path='/addexercise' element={<AddExercise></AddExercise>}></Route>
+          <Route path='/profile' element={<Profile/>}></Route>
         </Routes>
         <Footer></Footer>
       </BrowserRouter>

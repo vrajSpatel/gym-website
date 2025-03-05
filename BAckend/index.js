@@ -1,15 +1,19 @@
 const express = require('express');
 const app = express();
 const mongoDB = require('./db')
-const cors = require('cors');
+const cors = require('cors')
 
-const port = 5000;
+require("dotenv").config();
+
+const port = process.env.PORT;
 
 mongoDB();
 
 app.use(cors());
 app.use(express.json())
-app.use('/api',require('./routes/CreateUser'))
+app.use(express.urlencoded({extended:true}))
+
+app.use('/api',require('./routes/index.user'))
 
 app.get('/',function(req,res){
     res.send("hello")

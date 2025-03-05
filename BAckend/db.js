@@ -1,9 +1,10 @@
 const mongoose = require('mongoose');
-const mongourl = 'mongodb://localhost:27017/gymserver';
+const dotenv = require('dotenv')
+dotenv.config()
 
 
 const Mongoconnect = async()=>{
-   await mongoose.connect(mongourl);
+   await mongoose.connect(process.env.URI);
    console.log('connected');
 }
 

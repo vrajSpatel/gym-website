@@ -1,5 +1,5 @@
 import React from 'react';
-import exerciseData from '../Apis/api.json';
+import exerciseData from '../Utils/Apis/api.json';
 import { useNavigate } from 'react-router-dom';  //on click link in button
 
 const ExerciseCard = () => {

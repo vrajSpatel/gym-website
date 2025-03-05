@@ -91,14 +91,21 @@ font-family: 'Rowdies', sans-serif;
 }
 
 .rightsideofnav .loginlogo {
-    background-image: url('../assets/loginlogoBefore.png');
-    background-size: cover;
+    /* background-image: url('../assets/loginlogoBefore.png'); */
+    /* background-size: cover; */
     background-color: aliceblue;
     height: 70px;
     width: 70px;
     margin-right: 40px;
     border-radius: 50%;
     margin-top: 10px;
+    overflow: none;
+}
+
+.rightsideofnav .loginlogo img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
 }
 
 
