@@ -12,7 +12,7 @@ import Diet from './Component/Diet.jsx';
 import Exercise from './Component/Exercise.jsx';
 import Tracker from './Component/Tracker.jsx';
 import ContactUs from './Component/ContactUs.jsx';
-import AddExercise from './Component/AddExercise.jsx';
+// import AddExercise from './Component/AddExercise.jsx';
 import Profile from './Component/Profile.jsx';
 
 function App() {
@@ -32,7 +32,7 @@ function App() {
           <Route path='/excercise' element={<Exercise></Exercise>}></Route>
           <Route path='/traker' element={<Tracker></Tracker>}></Route>
           <Route path='/contactus' element={<ContactUs></ContactUs>}></Route>
-          <Route path='/addexercise' element={<AddExercise></AddExercise>}></Route>
+          {/* <Route path='/addexercise' element={<AddExercise></AddExercise>}></Route> */}
           <Route path='/profile' element={<Profile/>}></Route>
         </Routes>
         <Footer></Footer>

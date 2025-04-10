@@ -14,6 +14,7 @@ app.use(express.json())
 app.use(express.urlencoded({extended:true}))
 
 app.use('/api',require('./routes/index.user'))
+app.use('/datas',require('./routes/exercise.data'))
 
 app.get('/',function(req,res){
     res.send("hello")

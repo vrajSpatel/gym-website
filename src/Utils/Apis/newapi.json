@@ -1,0 +1,92 @@
+[
+  {
+    "muscle_group": "legs",
+    "exercises": [
+      {
+        "name": "Squat",
+        "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+        "details": {
+          "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+          "equipment_needed": "Barbell (optional)",
+          "difficulty_level": "Beginner to Advanced",
+          "recommended_reps": "8-12"
+        }
+      }
+    ]
+  },
+  {
+    "muscle_group": "chest",
+    "exercises": [
+      {
+        "name": "Squat",
+        "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+        "details": {
+          "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+          "equipment_needed": "Barbell (optional)",
+          "difficulty_level": "Beginner to Advanced",
+          "recommended_reps": "8-12"
+        }
+      }
+    ]
+  },
+  {
+    "muscle_group": "back",
+    "exercises": [
+      {
+        "name": "Squat",
+        "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+        "details": {
+          "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+          "equipment_needed": "Barbell (optional)",
+          "difficulty_level": "Beginner to Advanced",
+          "recommended_reps": "8-12"
+        }
+      }
+    ]
+  },
+  {
+    "muscle_group": "shoulder",
+    "exercises": [
+      {
+        "name": "Squat",
+        "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+        "details": {
+          "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+          "equipment_needed": "Barbell (optional)",
+          "difficulty_level": "Beginner to Advanced",
+          "recommended_reps": "8-12"
+        }
+      }
+    ]
+  },
+  {
+    "muscle_group": "arms",
+    "exercises": [
+      {
+        "name": "Squat",
+        "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+        "details": {
+          "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+          "equipment_needed": "Barbell (optional)",
+          "difficulty_level": "Beginner to Advanced",
+          "recommended_reps": "8-12"
+        }
+      }
+    ]
+  },
+  {
+    "muscle_group": "core",
+    "exercises": [
+      {
+        "name": "Squat",
+        "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-sumo-squat.gif",
+        "details": {
+          "description": "A lower body exercise that targets the quads, hamstrings, glutes, and lower back.",
+          "equipment_needed": "Barbell (optional)",
+          "difficulty_level": "Beginner to Advanced",
+          "recommended_reps": "8-12"
+        }
+      }
+    ]
+  }
+]

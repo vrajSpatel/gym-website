@@ -702,10 +702,11 @@ font-family: 'Rowdies', sans-serif;
 
 .Exercise-detail-main{
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 10px;
     background-color: white;
 }
 
@@ -715,6 +716,7 @@ font-family: 'Rowdies', sans-serif;
     width: 300px;
     margin: 20px;
     border-radius: 5px;
+    padding: 22px;
 }
 
 .exercise-title{
@@ -726,17 +728,7 @@ font-family: 'Rowdies', sans-serif;
     width: 250px;
 }
 
-.Exercise-adder{
-    height: 50px;
-    width: 200px;
-    border-radius: 10px;
-    color: #000;
-    background-color: #cfcdcd;
-    font-weight: 600;
-    font-size: 20px;
-}
-
-.Exercise-adder:hover{    
-    background-color: rgb(75, 70, 70);
-    color: white;
+.Exercise-detail-main .main_all_muscle{
+    margin: 2rem 4rem;
+    
 }

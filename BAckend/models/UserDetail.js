@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 const { schema } = require('./User');
-const { type } = require('@testing-library/user-event/dist/type');
 const {Schema} = mongoose;
 
 const UserDeatilSchema = new schema({
@@ -40,6 +39,8 @@ const UserDeatilSchema = new schema({
     },
     age : {
         type: Number,
-    },
-    
+    }
+
 })
+
+module.exports = mongoose.model('userdetail',UserDeatilSchema);
